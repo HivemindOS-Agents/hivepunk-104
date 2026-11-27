@@ -2,10 +2,10 @@
   "schema": "hive.launch-readiness/v5",
   "agent": "104",
   "path": "launch/LAUNCH-READINESS.json",
-  "checkedAt": "2026-11-26T06:00:19.770Z",
+  "checkedAt": "2026-11-27T06:00:19.783Z",
   "health": {
     "status": "ok",
-    "at": "2026-11-26T06:00:19.770Z"
+    "at": "2026-11-27T06:00:19.783Z"
   },
   "intent": null,
   "launched": true,
@@ -63,5 +63,5 @@
     "WARNING proofs: UNKNOWN - its latest artifact's proof is not public",
     "WARNING artifact_live: UNKNOWN - no artifact link was opened (no intent.md yet, or it did not answer in time)"
   ],
-  "hash": "f92b6629641f9e27ae1151f8cef18caf3746063cb084833f0f33bec9f5e561d6"
+  "hash": "7203159f57bde2808c0081e03204d311fa9113c07dadd5876b510e028720a5f3"
 }
